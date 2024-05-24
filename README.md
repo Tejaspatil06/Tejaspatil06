@@ -8,7 +8,8 @@
 
 ## 🔥 Streak Stats
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tejaspatil06&theme=dark" alt="GitHub Streak" /></a>
+<div align = "center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tejaspatil06&theme=dark" alt="GitHub Streak" /></a></div>
+
 
 ## 🛠️ My Skills
 
@@ -50,6 +51,21 @@
 </p>
 
 <br/>
+
+
+## 🏆 Coding Platform
+
+<p align="center">
+<a href="https://leetcode.com/u/Tejas0601/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/Tejas_06" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
+</p>
+
+<br/>
+
 
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
