@@ -59,9 +59,6 @@
 <a href="https://leetcode.com/u/Tejas0601/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
 </a>
-<a href="https://codeforces.com/profile/Tejas_06" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
-</a>
 </p>
 
 <br/>
